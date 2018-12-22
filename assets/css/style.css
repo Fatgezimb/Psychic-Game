@@ -1,0 +1,42 @@
+html { 
+    background: url(/javascript_Assignment/Psychic-Game/assets/images/plasma.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+
+
+
+h1, h2, p, h3, div{
+    color: #d8c4de
+}
+
+
+
+.jumbotron {
+    background-color: #664072;
+}
+
+body {
+    background-image: url(/javascript_Assignment/Psychic-Game/assets/images/plasma.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size:100% 100%;
+}
+
+.container h1, h2, p, h3{
+    color: #664072;
+}
+
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #664072;
+    text-align: center;
+  }
