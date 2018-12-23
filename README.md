@@ -1,6 +1,10 @@
 # Psychic-Game
 Javascript Assignment for George Washington University 
 
+In this assignemnt I make a cool game where the user tries to guess what the computer is thinking. Can you guess what the computer is thinking or have the computers finally gotten smart enough to take over the world? Click link below and give it a try. 
+
+https://fatgezimb.github.io/Psychic-Game/
+
 
 
 # JavaScript Assignment
